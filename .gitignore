@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore model weights (optional)
+*.pth
+
+# Ignore dataset folder
+data/
+*.tar.gz
+
+# mac junk
+.DS_Store
